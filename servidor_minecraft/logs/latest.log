@@ -1,0 +1,460 @@
+[21:51:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:51:46] [ServerMain/INFO]: Loaded 7 recipes
+[21:51:46] [ServerMain/INFO]: Loaded 1271 advancements
+[21:51:47] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:51:47] [Server thread/INFO]: Loading properties
+[21:51:47] [Server thread/INFO]: Default game type: SURVIVAL
+[21:51:47] [Server thread/INFO]: Generating keypair
+[21:51:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:51:48] [Server thread/INFO]: Using epoll channel type
+[21:51:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:51:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:51:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:51:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:51:48] [Server thread/INFO]: Preparing level "world"
+[21:52:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:52:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:52:45] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[21:52:46] [Worker-Main-1/INFO]: Preparing spawn area: 70%
+[21:52:48] [Server thread/INFO]: Time elapsed: 47556 ms
+[21:52:48] [Server thread/INFO]: Done (60.115s)! For help, type "help"
+[21:55:27] [Server thread/INFO]: Robinson123y[/127.4.251.209:52271] logged in with entity id 482 at (-13.5, 79.0, -45.5)
+[21:55:27] [Server thread/INFO]: Robinson123y joined the game
+[21:56:02] [Server thread/INFO]: [Not Secure] <Robinson123y> q
+[21:56:40] [Server thread/INFO]: Robinson123y has made the advancement [Stone Age]
+[21:57:13] [Server thread/INFO]: Robinson123y has made the advancement [Getting an Upgrade]
+[22:04:44] [Server thread/INFO]: Robinson123y has made the advancement [Monster Hunter]
+[22:05:14] [Server thread/INFO]: Robinson123y lost connection: Disconnected
+[22:05:14] [Server thread/INFO]: Robinson123y left the game
+[22:11:30] [Server thread/INFO]: zDxzgo_[/127.246.47.38:33777] logged in with entity id 2137 at (-16.5, 71.0, -37.5)
+[22:11:30] [Server thread/INFO]: zDxzgo_ joined the game
+[22:15:55] [Server thread/INFO]: Robinson123y[/127.4.251.209:58405] logged in with entity id 2612 at (-8.968181447307623, 73.0, -49.854792167800895)
+[22:15:55] [Server thread/INFO]: Robinson123y joined the game
+[22:16:07] [Server thread/INFO]: [Not Secure] <Robinson123y> tas en una cueva?
+[22:16:19] [Server thread/INFO]: [Not Secure] <zDxzgo_> si
+[22:16:24] [Server thread/INFO]: [Not Secure] <Robinson123y> xd
+[22:16:33] [Server thread/INFO]: [Not Secure] <zDxzgo_> pera ps
+[22:16:57] [Server thread/INFO]: [Not Secure] <zDxzgo_> dontas
+[22:17:15] [Server thread/INFO]: [Not Secure] <zDxzgo_> tp netho
+[22:17:26] [Server thread/INFO]: [Not Secure] <Robinson123y> c
+[22:17:34] [Server thread/INFO]: [Not Secure] <zDxzgo_> tp
+[22:17:39] [Server thread/INFO]: [Not Secure] <Robinson123y> tp mis bolas
+[22:17:43] [Server thread/INFO]: [Not Secure] <zDxzgo_> ven aca
+[22:17:52] [Server thread/INFO]: [Not Secure] <Robinson123y> toy
+[22:17:53] [Server thread/INFO]: [Not Secure] <Robinson123y> uwu
+[22:17:57] [Server thread/INFO]: [Not Secure] <zDxzgo_> -1 72 76
+[22:18:10] [Server thread/INFO]: [Not Secure] <Robinson123y> pq mrd tas tan lejos
+[22:18:17] [Server thread/INFO]: [Not Secure] <zDxzgo_> xd nose
+[22:18:41] [Server thread/INFO]: [Not Secure] <Robinson123y> puto chancho
+[22:18:43] [Server thread/INFO]: [Not Secure] <zDxzgo_> pera
+[22:19:13] [Server thread/INFO]: [Not Secure] <Robinson123y> ya tenemos para hacer portal
+[22:19:14] [Server thread/INFO]: [Not Secure] <zDxzgo_> go
+[22:19:24] [Server thread/INFO]: [Not Secure] <Robinson123y> ahi hay un charco de lava
+[22:19:52] [Server thread/INFO]: zDxzgo_ has made the advancement [Stone Age]
+[22:20:10] [Server thread/INFO]: zDxzgo_ has made the advancement [Getting an Upgrade]
+[22:20:14] [Server thread/INFO]: [Not Secure] <Robinson123y> sa golda
+[22:21:22] [Server thread/INFO]: Robinson123y has made the advancement [Acquire Hardware]
+[22:21:29] [Server thread/INFO]: [Not Secure] <Robinson123y> ven amor
+[22:21:38] [Server thread/INFO]: [Not Secure] <zDxzgo_> 2 que netho
+[22:21:57] [Server thread/INFO]: [Not Secure] <Robinson123y> toy como el tari
+[22:22:06] [Server thread/INFO]: [Not Secure] <zDxzgo_> jaaj pnochio referencia
+[22:22:16] [Server thread/INFO]: [Not Secure] <zDxzgo_> dontas
+[22:22:29] [Server thread/INFO]: [Not Secure] <Robinson123y> almrd
+[22:22:32] [Server thread/INFO]: [Not Secure] <zDxzgo_> go
+[22:22:33] [Server thread/INFO]: [Not Secure] <Robinson123y> pense q no era tan grande
+[22:22:36] [Server thread/INFO]: [Not Secure] <Robinson123y> asi me dijo ella
+[22:22:43] [Server thread/INFO]: [Not Secure] <zDxzgo_> el
+[22:22:53] [Server thread/INFO]: [Not Secure] <Robinson123y> oe
+[22:22:55] [Server thread/INFO]: [Not Secure] <Robinson123y> saluda ps
+[22:22:56] [Server thread/INFO]: [Not Secure] <zDxzgo_> q
+[22:22:59] [Server thread/INFO]: [Not Secure] <zDxzgo_> gola
+[22:23:12] [Server thread/INFO]: [Not Secure] <zDxzgo_> h
+[22:23:13] [Server thread/INFO]: [Not Secure] <zDxzgo_> o
+[22:23:14] [Server thread/INFO]: [Not Secure] <zDxzgo_> l
+[22:23:14] [Server thread/INFO]: [Not Secure] <Robinson123y> pura mierda
+[22:23:15] [Server thread/INFO]: [Not Secure] <zDxzgo_> a
+[22:23:56] [Server thread/INFO]: [Not Secure] <Robinson123y> pura cagada
+[22:23:57] [Server thread/INFO]: [Not Secure] <Robinson123y> xd
+[22:24:00] [Server thread/INFO]: [Not Secure] <zDxzgo_> safa
+[22:24:12] [Server thread/INFO]: [Not Secure] <zDxzgo_> aca mira
+[22:24:37] [Server thread/INFO]: [Not Secure] <zDxzgo_> aca si
+[22:24:38] [Server thread/INFO]: [Not Secure] <Robinson123y> aura
+[22:25:21] [Server thread/INFO]: [Not Secure] <Robinson123y> ez
+[22:25:29] [Server thread/INFO]: [Not Secure] <zDxzgo_> me muerro
+[22:25:50] [Server thread/INFO]: [Not Secure] <zDxzgo_> go
+[22:26:27] [Server thread/INFO]: [Not Secure] <Robinson123y> c diego
+[22:26:30] [Server thread/INFO]: [Not Secure] <zDxzgo_> q
+[22:26:55] [Server thread/INFO]: [Not Secure] <Robinson123y> aca era?
+[22:26:56] [Server thread/INFO]: [Not Secure] <Robinson123y> xdxd
+[22:26:59] [Server thread/INFO]: [Not Secure] <zDxzgo_> si
+[22:27:23] [Server thread/INFO]: [Not Secure] <zDxzgo_> me muero
+[22:27:26] [Server thread/INFO]: [Not Secure] <zDxzgo_> tengo 2 cora
+[22:27:33] [Server thread/INFO]: [Not Secure] <Robinson123y> cuidao
+[22:27:38] [Server thread/INFO]: [Not Secure] <Robinson123y> toma
+[22:27:42] [Server thread/INFO]: [Not Secure] <zDxzgo_> aver
+[22:27:44] [Server thread/INFO]: [Not Secure] <Robinson123y> xd
+[22:27:44] [Server thread/INFO]: [Not Secure] <zDxzgo_> va netho
+[22:28:05] [Server thread/INFO]: [Not Secure] <Robinson123y> elea
+[22:28:06] [Server thread/INFO]: [Not Secure] <Robinson123y> pelea
+[22:28:15] [Server thread/INFO]: [Not Secure] <Robinson123y> aca
+[22:28:20] [Server thread/INFO]: zDxzgo_ has made the advancement [Monster Hunter]
+[22:28:20] [Server thread/INFO]: [Not Secure] <Robinson123y> o0eee
+[22:28:21] [Server thread/INFO]: [Not Secure] <Robinson123y> oee
+[22:28:26] [Server thread/INFO]: [Not Secure] <zDxzgo_> ezz
+[22:28:27] [Server thread/INFO]: [Not Secure] <Robinson123y> puto idiota
+[22:28:32] [Server thread/INFO]: [Not Secure] <Robinson123y> se estaban peleando
+[22:28:35] [Server thread/INFO]: [Not Secure] <zDxzgo_> minesah
+[22:29:06] [Server thread/INFO]: [Not Secure] <zDxzgo_> ez
+[22:29:40] [Server thread/INFO]: Robinson123y has made the advancement [Isn't It Iron Pick]
+[22:30:02] [Server thread/INFO]: [Not Secure] <zDxzgo_> tengo 4 cora
+[22:30:09] [Server thread/INFO]: [Not Secure] <Robinson123y> toma bebe
+[22:30:14] [Server thread/INFO]: [Not Secure] <zDxzgo_> pera hago esucdo
+[22:30:33] [Server thread/INFO]: zDxzgo_ was slain by Zombie
+[22:30:36] [Server thread/INFO]: [Not Secure] <Robinson123y> XD
+[22:30:40] [Server thread/INFO]: [Not Secure] <zDxzgo_> hablamos netho
+[22:30:47] [Server thread/INFO]: [Not Secure] <Robinson123y> como te mata un zombie
+[22:30:49] [Server thread/INFO]: [Not Secure] <zDxzgo_> tp ps
+[22:30:53] [Server thread/INFO]: [Not Secure] <zDxzgo_> no se me re galeo x
+[22:30:57] [Server thread/INFO]: [Not Secure] <zDxzgo_> lageo
+[22:31:04] [Server thread/INFO]: [Not Secure] <zDxzgo_> tp fast
+[22:31:12] [Server thread/INFO]: [Not Secure] <Robinson123y> pera no tengo admin
+[22:31:15] [Server thread/INFO]: [Not Secure] <zDxzgo_> fast
+[22:31:48] [Server thread/INFO]: You whisper to zDxzgo_: imbecil
+[22:31:53] [Server thread/INFO]: [Not Secure] <zDxzgo_> que mrd
+[22:32:01] [Server thread/INFO]: Made Robinson123y a server operator
+[22:32:18] [Server thread/INFO]: [Robinson123y: Teleported zDxzgo_ to Robinson123y]
+[22:32:24] [Server thread/INFO]: [Not Secure] <zDxzgo_> mis cosas ps
+[22:32:48] [Server thread/INFO]: [Not Secure] <zDxzgo_> mi hierro d
+[22:32:58] [Server thread/INFO]: [Not Secure] <Robinson123y> el zombie se lo llevo
+[22:33:04] [Server thread/INFO]: [Not Secure] <zDxzgo_> rota uno
+[22:33:05] [Server thread/INFO]: zDxzgo_ has made the advancement [Acquire Hardware]
+[22:33:35] [Server thread/INFO]: zDxzgo_ has made the advancement [Isn't It Iron Pick]
+[22:34:01] [Server thread/INFO]: [Not Secure] <zDxzgo_> oee
+[22:34:05] [Server thread/INFO]: [Not Secure] <Robinson123y> creeper
+[22:34:08] [Server thread/INFO]: [Not Secure] <Robinson123y> atra
+[22:34:15] [Server thread/INFO]: [Not Secure] <Robinson123y> te caiste solo
+[22:34:17] [Server thread/INFO]: [Not Secure] <Robinson123y> xdxdxdd
+[22:34:19] [Server thread/INFO]: [Not Secure] <zDxzgo_> baja fast
+[22:34:22] [Server thread/INFO]: [Not Secure] <Robinson123y> no
+[22:34:25] [Server thread/INFO]: [Not Secure] <zDxzgo_> c
+[22:34:30] [Server thread/INFO]: [Not Secure] <zDxzgo_> a
+[22:34:31] [Server thread/INFO]: zDxzgo_ has made the advancement [Not Today, Thank You]
+[22:34:38] [Server thread/INFO]: Robinson123y has made the advancement [Take Aim]
+[22:34:58] [Server thread/INFO]: [Not Secure] <zDxzgo_> dame comida
+[22:35:01] [Server thread/INFO]: [Not Secure] <zDxzgo_> porfa
+[22:35:13] [Server thread/INFO]: [Not Secure] <Robinson123y> se me acabo
+[22:35:14] [Server thread/INFO]: [Not Secure] <Robinson123y> xd
+[22:35:22] [Server thread/INFO]: [Not Secure] <zDxzgo_> tengo 3 cora x
+[22:35:43] [Server thread/INFO]: zDxzgo_ was slain by Zombie
+[22:35:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-9, y=78, z=-49}
+[22:35:48] [Server thread/INFO]: [Not Secure] <zDxzgo_> eran 2 tp
+[22:35:55] [Server thread/INFO]: [Not Secure] <Robinson123y> estas mierditas
+[22:35:58] [Server thread/INFO]: [Robinson123y: Teleported zDxzgo_ to Robinson123y]
+[22:36:06] [Server thread/INFO]: [Not Secure] <zDxzgo_> afirmativo
+[22:36:20] [Server thread/INFO]: [Not Secure] <Robinson123y> xsdxd
+[22:36:28] [Server thread/INFO]: [Not Secure] <Robinson123y> pica esa
+[22:36:50] [Server thread/INFO]: Robinson123y has made the advancement [Not Today, Thank You]
+[22:37:42] [Server thread/INFO]: [Not Secure] <Robinson123y> vamos a la lava
+[22:37:46] [Server thread/INFO]: [Not Secure] <zDxzgo_> go
+[22:38:13] [Server thread/INFO]: [Not Secure] <Robinson123y> aca veni
+[22:38:44] [Server thread/INFO]: [Not Secure] <zDxzgo_> xd
+[22:38:46] [Server thread/INFO]: [Not Secure] <Robinson123y> xdxdd
+[22:38:50] [Server thread/INFO]: [Not Secure] <zDxzgo_> go
+[22:38:58] [Server thread/INFO]: [Not Secure] <zDxzgo_> ala mrd
+[22:39:00] [Server thread/INFO]: [Not Secure] <Robinson123y> q mrd
+[22:39:05] [Server thread/INFO]: [Not Secure] <Robinson123y> oe
+[22:39:05] [Server thread/INFO]: [Not Secure] <zDxzgo_> como veo con una solo antorcha
+[22:39:09] [Server thread/INFO]: [Not Secure] <Robinson123y> ho tenemos comida
+[22:39:11] [Server thread/INFO]: [Not Secure] <zDxzgo_> xd
+[22:39:13] [Server thread/INFO]: [Not Secure] <Robinson123y> mejor vamos arriba
+[22:39:15] [Server thread/INFO]: [Not Secure] <zDxzgo_> fue ps
+[22:39:18] [Server thread/INFO]: [Not Secure] <zDxzgo_> aca noma
+[22:39:22] [Server thread/INFO]: [Not Secure] <Robinson123y> activa iluminacion dinamica
+[22:39:25] [Server thread/INFO]: [Not Secure] <zDxzgo_> com
+[22:39:38] [Server thread/INFO]: [Not Secure] <Robinson123y> opciones
+[22:39:40] [Server thread/INFO]: [Not Secure] <Robinson123y> graficos
+[22:39:40] [Server thread/INFO]: [Not Secure] <zDxzgo_> ya
+[22:39:44] [Server thread/INFO]: [Not Secure] <Robinson123y> ilum dinamica detallados
+[22:40:12] [Server thread/INFO]: [Not Secure] <Robinson123y> no veo diamantes
+[22:40:24] [Server thread/INFO]: [Not Secure] <zDxzgo_> verdad toy con sodieum xd
+[22:40:44] [Server thread/INFO]: [Not Secure] <zDxzgo_> portal nomas
+[22:40:51] [Server thread/INFO]: [Not Secure] <Robinson123y> arriba
+[22:40:55] [Server thread/INFO]: [Not Secure] <zDxzgo_> go
+[22:42:00] [Server thread/INFO]: [Not Secure] <Robinson123y> ahachate
+[22:42:05] [Server thread/INFO]: [Not Secure] <zDxzgo_> a
+[22:42:14] [Server thread/INFO]: [Not Secure] <zDxzgo_> y ahojra xd
+[22:42:39] [Server thread/INFO]: [Not Secure] <Robinson123y> aca
+[22:44:06] [Server thread/INFO]: [Not Secure] <Robinson123y> el spawn
+[22:44:06] [Server thread/INFO]: [Not Secure] <Robinson123y> xd
+[22:44:08] [Server thread/INFO]: [Not Secure] <zDxzgo_> xd
+[22:44:13] [Server thread/INFO]: [Not Secure] <Robinson123y> aca estaba el charco
+[22:44:20] [Server thread/INFO]: [Not Secure] <zDxzgo_> donde
+[22:45:11] [Server thread/INFO]: [Not Secure] <zDxzgo_> va
+[22:45:19] [Server thread/INFO]: Robinson123y has made the advancement [Hot Stuff]
+[22:45:32] [Server thread/INFO]: [Not Secure] <zDxzgo_> comida xd
+[22:46:03] [Server thread/INFO]: [Not Secure] <Robinson123y> muero
+[22:46:04] [Server thread/INFO]: [Not Secure] <Robinson123y> xd
+[22:46:06] [Server thread/INFO]: [Not Secure] <zDxzgo_> igua
+[22:46:56] [Server thread/INFO]: [Not Secure] <zDxzgo_> 2 cora tengo
+[22:47:17] [Server thread/INFO]: [Not Secure] <Robinson123y> uwu
+[22:47:31] [Server thread/INFO]: [Not Secure] <zDxzgo_> tengo 1 cor
+[22:47:49] [Server thread/INFO]: [Not Secure] <zDxzgo_> :(
+[22:47:51] [Server thread/INFO]: [Not Secure] <Robinson123y> xdxd
+[22:47:54] [Server thread/INFO]: [Not Secure] <zDxzgo_> que mierda
+[22:48:01] [Server thread/INFO]: [Not Secure] <Robinson123y> aca esta la lava
+[22:48:02] [Server thread/INFO]: [Not Secure] <Robinson123y> xd
+[22:48:31] [Server thread/INFO]: [Not Secure] <Robinson123y> Dia 2 muchachos
+[22:48:39] [Server thread/INFO]: [Not Secure] <Robinson123y> creo q seria mejor buscar una aldea no?
+[22:48:40] [Server thread/INFO]: [Not Secure] <Robinson123y> xd
+[22:48:45] [Server thread/INFO]: [Not Secure] <Robinson123y> antes de ir al nether
+[22:50:37] [Server thread/INFO]: [Not Secure] <zDxzgo_> mira amog us
+[22:50:43] [Server thread/INFO]: [Not Secure] <Robinson123y> jajaj
+[22:50:47] [Server thread/INFO]: [Not Secure] <zDxzgo_> unas pelis ps
+[22:51:10] [Server thread/INFO]: [Not Secure] <Robinson123y> al que baje lo calateamos
+[22:51:50] [Server thread/INFO]: [Not Secure] <Robinson123y> de diaaa
+[22:53:41] [Server thread/INFO]: [Not Secure] <zDxzgo_> oe
+[22:54:02] [Server thread/INFO]: zDxzgo_ has made the advancement [We Need to Go Deeper]
+[22:54:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3778ms or 75 ticks behind
+[22:54:08] [Server thread/INFO]: Robinson123y has made the advancement [We Need to Go Deeper]
+[22:54:11] [Server thread/INFO]: [Not Secure] <zDxzgo_> goo
+[22:54:22] [Server thread/INFO]: [Not Secure] <Robinson123y> nos van a dar una cogida
+[22:54:25] [Server thread/INFO]: [Not Secure] <zDxzgo_> xd
+[22:54:31] [Server thread/INFO]: [Not Secure] <zDxzgo_> dontas
+[22:54:35] [Server thread/INFO]: [Not Secure] <Robinson123y> busquemos una aldea
+[22:55:10] [Server thread/INFO]: [Not Secure] <zDxzgo_> va
+[22:55:20] [Server thread/INFO]: [Not Secure] <Robinson123y> -88 72 105
+[22:55:29] [Server thread/INFO]: [Not Secure] <zDxzgo_> go
+[22:55:46] [Server thread/INFO]: [Not Secure] <Robinson123y> 3
+[22:55:48] [Server thread/INFO]: [Not Secure] <Robinson123y> 2
+[22:55:48] [Server thread/INFO]: [Not Secure] <zDxzgo_> ya mejor este
+[22:55:49] [Server thread/INFO]: [Not Secure] <Robinson123y> 1
+[22:55:51] [Server thread/INFO]: [Not Secure] <Robinson123y> ya
+[22:56:14] [Server thread/INFO]: [Not Secure] <Robinson123y> gg
+[22:56:30] [Server thread/INFO]: [Not Secure] <Robinson123y> -163 114
+[22:56:36] [Server thread/INFO]: [Not Secure] <Robinson123y> go
+[22:56:39] [Server thread/INFO]: [Not Secure] <zDxzgo_> que mr
+[22:56:44] [Server thread/INFO]: [Not Secure] <zDxzgo_> tengo un cora gil
+[22:57:02] [Server thread/INFO]: [Not Secure] <Robinson123y> XD
+[22:57:11] [Server thread/INFO]: [Not Secure] <Robinson123y> vamono
+[22:57:17] [Server thread/INFO]: [Not Secure] <Robinson123y> casi muero
+[22:57:40] [Server thread/INFO]: [Not Secure] <zDxzgo_> donta
+[22:57:45] [Server thread/INFO]: [Not Secure] <Robinson123y> nose
+[22:57:55] [Server thread/INFO]: [Not Secure] <zDxzgo_> no puedo correr
+[22:58:00] [Server thread/INFO]: [Not Secure] <Robinson123y> rapidos ps
+[22:58:34] [Server thread/INFO]: [Not Secure] <zDxzgo_> tengo medio cora
+[22:58:49] [Server thread/INFO]: [Not Secure] <Robinson123y> te mato
+[22:58:54] [Server thread/INFO]: [Not Secure] <zDxzgo_> si quieres
+[22:58:55] [Server thread/INFO]: [Not Secure] <Robinson123y> entra
+[22:58:59] [Server thread/INFO]: zDxzgo_ was slain by Robinson123y
+[22:59:04] [Server thread/INFO]: [Not Secure] <zDxzgo_> xd
+[22:59:09] [Server thread/INFO]: [Robinson123y: Teleported zDxzgo_ to Robinson123y]
+[22:59:14] [Server thread/INFO]: [Not Secure] <Robinson123y> a un golpe tabas xdxd
+[22:59:16] [Server thread/INFO]: [Not Secure] <zDxzgo_> i wa
+[22:59:18] [Server thread/INFO]: [Not Secure] <zDxzgo_> si ps
+[22:59:38] [Server thread/INFO]: [Not Secure] <zDxzgo_> vamos
+[22:59:58] [Server thread/INFO]: [Not Secure] <Robinson123y> ya casi
+[23:00:16] [Server thread/INFO]: [Not Secure] <zDxzgo_> tengo a mweol me cres?
+[23:00:45] [Server thread/INFO]: [Not Secure] <Robinson123y> si te creo
+[23:00:52] [Server thread/INFO]: [Not Secure] <zDxzgo_> yo tampoco me creo
+[23:00:57] [Server thread/INFO]: [Not Secure] <Robinson123y> ven
+[23:00:59] [Server thread/INFO]: [Not Secure] <zDxzgo_> que mrd
+[23:01:00] [Server thread/INFO]: [Not Secure] <Robinson123y> una foto
+[23:01:04] [Server thread/INFO]: [Not Secure] <zDxzgo_> va
+[23:01:10] [Server thread/INFO]: [Not Secure] <zDxzgo_> dos que mano
+[23:01:15] [Server thread/INFO]: [Not Secure] <zDxzgo_> zz juego no me deja poner 2
+[23:01:38] [Server thread/INFO]: [Not Secure] <Robinson123y> listo
+[23:01:40] [Server thread/INFO]: [Not Secure] <zDxzgo_> yo que soy un alarako
+[23:01:43] [Server thread/INFO]: [Not Secure] <zDxzgo_> la trato
+[23:01:45] [Server thread/INFO]: [Not Secure] <zDxzgo_> la descarto
+[23:01:51] [Server thread/INFO]: [Not Secure] <zDxzgo_> en mi cuarto
+[23:01:55] [Server thread/INFO]: [Not Secure] <zDxzgo_> no hay tacto
+[23:01:59] [Server thread/INFO]: [Not Secure] <zDxzgo_> solo tacto
+[23:02:01] [Server thread/INFO]: [Not Secure] <Robinson123y> pene
+[23:02:05] [Server thread/INFO]: [Not Secure] <zDxzgo_> va seguimos
+[23:02:10] [Server thread/INFO]: [Not Secure] <zDxzgo_> c juego
+[23:02:26] [Server thread/INFO]: [Not Secure] <zDxzgo_> puse el temita dejo bien?
+[23:02:42] [Server thread/INFO]: [Not Secure] <Robinson123y> la envie
+[23:02:44] [Server thread/INFO]: [Not Secure] <Robinson123y> aura
+[23:02:46] [Server thread/INFO]: [Not Secure] <Robinson123y> dejas mal
+[23:03:10] [Server thread/INFO]: [Not Secure] <zDxzgo_> tmr ponle esa muscia de fonfo y me dejas bien
+[23:03:13] [Server thread/INFO]: [Not Secure] <zDxzgo_> exotica
+[23:03:14] [Server thread/INFO]: [Not Secure] <Robinson123y> xd
+[23:03:17] [Server thread/INFO]: [Not Secure] <zDxzgo_> aslo fast
+[23:03:30] [Server thread/INFO]: [Not Secure] <Robinson123y> then
+[23:03:34] [Server thread/INFO]: [Not Secure] <zDxzgo_> depues lo hago
+[23:03:40] [Server thread/INFO]: [Not Secure] <Robinson123y> qq
+[23:03:43] [Server thread/INFO]: [Not Secure] <Robinson123y> q
+[23:03:43] [Server thread/INFO]: [Not Secure] <Robinson123y> q
+[23:03:44] [Server thread/INFO]: [Not Secure] <Robinson123y> q
+[23:03:44] [Server thread/INFO]: [Not Secure] <Robinson123y> q
+[23:03:52] [Server thread/INFO]: [Not Secure] <zDxzgo_> xd
+[23:03:54] [Server thread/INFO]: [Not Secure] <Robinson123y> foto]???
+[23:03:55] [Server thread/INFO]: [Not Secure] <zDxzgo_> que es
+[23:03:57] [Server thread/INFO]: [Not Secure] <zDxzgo_> si
+[23:04:01] [Server thread/INFO]: [Not Secure] <zDxzgo_> es rosadita
+[23:04:03] [Server thread/INFO]: [Not Secure] <Robinson123y> oveja rosada
+[23:04:05] [Server thread/INFO]: [Not Secure] <zDxzgo_> lo pones el temitaps
+[23:04:09] [Server thread/INFO]: [Not Secure] <Robinson123y> la mas dificil de encontrar
+[23:04:12] [Server thread/INFO]: [Not Secure] <zDxzgo_> exotica el yt minuto 2
+[23:04:19] [Server thread/INFO]: [Not Secure] <zDxzgo_> yo que so yun alarako
+[23:04:22] [Server thread/INFO]: [Not Secure] <zDxzgo_> la trato
+[23:04:25] [Server thread/INFO]: [Not Secure] <zDxzgo_> me la kcho
+[23:04:34] [Server thread/INFO]: [Not Secure] <Robinson123y> mira
+[23:04:38] [Server thread/INFO]: [Not Secure] <Robinson123y> aca
+[23:04:44] [Server thread/INFO]: [Not Secure] <zDxzgo_> encierrala
+[23:04:55] [Server thread/INFO]: [Not Secure] <zDxzgo_> esta a un golpe
+[23:04:58] [Server thread/INFO]: [Not Secure] <zDxzgo_> no lo toques
+[23:05:00] [Server thread/INFO]: [Not Secure] <Robinson123y> XD
+[23:05:01] [Server thread/INFO]: [Not Secure] <zDxzgo_> xddd
+[23:05:06] [Server thread/INFO]: [Not Secure] <Robinson123y> TMR
+[23:05:09] [Server thread/INFO]: [Not Secure] <zDxzgo_> quebaje
+[23:05:11] [Server thread/INFO]: [Not Secure] <Robinson123y> PUTO CREEPER
+[23:05:14] [Server thread/INFO]: [Not Secure] <Robinson123y> akajjsasa
+[23:05:51] [Server thread/INFO]: [Not Secure] <Robinson123y> al menos tome cap
+[23:05:54] [Server thread/INFO]: [Not Secure] <zDxzgo_> xd
+[23:06:12] [Server thread/INFO]: [Not Secure] <zDxzgo_> va voy editando el video
+[23:06:52] [Server thread/INFO]: [Not Secure] <Robinson123y> mira wasa
+[23:06:59] [Server thread/INFO]: [Not Secure] <Robinson123y> tome una foto con aura
+[23:07:07] [Server thread/INFO]: [Not Secure] <zDxzgo_> avanza nomas joven
+[23:07:58] [Server thread/INFO]: [Not Secure] <Robinson123y> pense q era aldea
+[23:08:07] [Server thread/INFO]: [Not Secure] <Robinson123y> pero debe haber una cerca
+[23:08:18] [Server thread/INFO]: [Not Secure] <zDxzgo_> SIGUE FAST
+[23:08:32] [Server thread/INFO]: [Not Secure] <Robinson123y> okay amor
+[23:08:35] [Server thread/INFO]: [Not Secure] <Robinson123y> pero no me pegues
+[23:08:39] [Server thread/INFO]: [Not Secure] <Robinson123y> me duele mucho
+[23:08:42] [Server thread/INFO]: [Not Secure] <zDxzgo_> que mrd
+[23:08:51] [Server thread/INFO]: [Not Secure] <zDxzgo_> espera ps toy edtando sigu en el bote
+[23:09:10] [Server thread/INFO]: [Not Secure] <Robinson123y> ok mañana
+[23:09:18] [Server thread/INFO]: [Not Secure] <zDxzgo_> callate basra
+[23:09:27] [Server thread/INFO]: [Not Secure] <Robinson123y> watajai
+[23:09:34] [Server thread/INFO]: [Not Secure] <Robinson123y> fua
+[23:09:36] [Server thread/INFO]: [Not Secure] <Robinson123y> este luga
+[23:09:40] [Server thread/INFO]: [Not Secure] <Robinson123y> pa una casa
+[23:10:12] [Server thread/INFO]: [Not Secure] <zDxzgo_> espera
+[23:10:17] [Server thread/INFO]: [Not Secure] <zDxzgo_> sdamecomida
+[23:10:35] [Server thread/INFO]: [Not Secure] <zDxzgo_> no puedo correr
+[23:10:58] [Server thread/INFO]: [Not Secure] <zDxzgo_> espreame
+[23:11:03] [Server thread/INFO]: [Not Secure] <zDxzgo_> toy haciendo algo
+[23:11:13] [Server thread/INFO]: [Not Secure] <Robinson123y> ven
+[23:11:16] [Server thread/INFO]: zDxzgo_ was blown up by Creeper
+[23:11:28] [Server thread/INFO]: [Robinson123y: Teleported zDxzgo_ to Robinson123y]
+[23:11:32] [Server thread/INFO]: [Not Secure] <zDxzgo_> tmr que ufe
+[23:11:34] [Server thread/INFO]: [Not Secure] <Robinson123y> c
+[23:11:36] [Server thread/INFO]: [Robinson123y: Teleported zDxzgo_ to Robinson123y]
+[23:11:47] [Server thread/INFO]: [Not Secure] <Robinson123y> te violo un creeper
+[23:11:48] [Server thread/INFO]: [Not Secure] <Robinson123y> atarass
+[23:11:50] [Server thread/INFO]: [Not Secure] <Robinson123y> xdxsdx
+[23:11:53] [Server thread/INFO]: Robinson123y has made the advancement [Sweet Dreams]
+[23:12:02] [Server thread/INFO]: [Not Secure] <Robinson123y> dulces sueños
+[23:12:23] [Server thread/INFO]: [Not Secure] <Robinson123y> peleaaa
+[23:12:37] [Server thread/INFO]: [Not Secure] <Robinson123y> pelea de esqueletos
+[23:12:45] [Server thread/INFO]: [Not Secure] <Robinson123y> xd murieron por el sol
+[23:13:21] [Server thread/INFO]: [Not Secure] <zDxzgo_> mira amogn us
+[23:13:32] [Server thread/INFO]: [Not Secure] <zDxzgo_> per
+[23:13:42] [Server thread/INFO]: [Not Secure] <zDxzgo_> mira
+[23:13:58] [Server thread/INFO]: [Not Secure] <zDxzgo_> mira
+[23:14:54] [Server thread/INFO]: [Not Secure] <Robinson123y> jaja borra tu mierda
+[23:15:17] [Server thread/INFO]: [Not Secure] <Robinson123y> c chancho te mira fea
+[23:15:18] [Server thread/INFO]: [Not Secure] <Robinson123y> feo
+[23:15:20] [Server thread/INFO]: zDxzgo_ lost connection: Disconnected
+[23:15:20] [Server thread/INFO]: zDxzgo_ left the game
+[23:15:20] [Server thread/WARN]: handleDisconnection() called twice
+[23:23:35] [Server thread/INFO]: Stopping the server
+[23:23:35] [Server thread/INFO]: Stopping server
+[23:23:35] [Server thread/INFO]: Saving players
+[23:23:35] [Server thread/INFO]: Saving worlds
+[23:23:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:23:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:23:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:23:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:23:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:23:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:23:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
